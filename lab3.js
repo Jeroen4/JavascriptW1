@@ -1,0 +1,21 @@
+var een = '1'*'6';
+var twee = '2'*'6';
+var drie = '3'*'6';
+var vier = '4'*'6';
+var vijf = '5'*'6';
+var zes = '6'*'6';
+var zeven = '7'*'6';
+var acht = '8'*'6';
+var negen = '9'*'6';
+var tien = '10'*'6';
+
+document.write(een);
+document.write(twee);
+document.write(drie);
+document.write(vier);
+document.write(vijf);
+document.write(zes);
+document.write(zeven);
+document.write(acht);
+document.write(negen);
+document.write(tien);
