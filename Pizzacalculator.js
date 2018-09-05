@@ -1,5 +1,5 @@
 /*Jeroen Faasse Pizzacalculator*/
-alert("Welkom bij pizzeria Ria");
+alert("Welkom bij pizzeria Ria");													//Geeft een welkomstbericht
 
 var small = prompt("Hoeveel kleine pizza's wilt u?",0);
 var medium = prompt("Hoeveel medium pizza's wilt u?",0);							//Vraagt naar de keuze pizza
